@@ -1,0 +1,5 @@
+Bed
+Chair
+Ceiling Fan
+Refrigerator
+Table
