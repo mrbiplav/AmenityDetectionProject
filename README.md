@@ -1,8 +1,11 @@
-# Android Anemity Detector App using TensorFlow Lite image classification
+# Amenity Detection App using TensorFlow Lite 
 
 ## Overview
+The working of the app is shown below:
+1.In this screenshot of the app successfully reognises the object in its view.
+<a href="https://imgur.com/qCDZcde"><img src="https://i.imgur.com/qCDZcde.png" title="source: imgur.com" /></a>
 
-This is an example application for [TensorFlow Lite](https://tensorflow.org/lite)
+The application is based on [TensorFlow Lite](https://tensorflow.org/lite)
 on Android. It uses
 [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview)
 to continuously classify whatever it sees from the device's back camera.
