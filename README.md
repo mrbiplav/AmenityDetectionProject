@@ -13,6 +13,7 @@ model, select the thread count, and decide whether to run on CPU, GPU, or via
 [NNAPI](https://developer.android.com/ndk/guides/neuralnetworks).
 
 The working of the app is shown in the screenshots below:
+
 <a href="https://imgur.com/qCDZcde"><img src="https://i.imgur.com/qCDZcde.png" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/DQc4PyT"><img src="https://i.imgur.com/DQc4PyT.png" title="source: imgur.com" /></a>
