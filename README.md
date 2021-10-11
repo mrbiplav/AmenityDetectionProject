@@ -1,10 +1,6 @@
 # Amenity Detection App using TensorFlow Lite 
 
 ## Overview
-The working of the app is shown below:
-1.In this screenshot of the app successfully reognises the object in its view.
-<a href="https://imgur.com/qCDZcde"><img src="https://i.imgur.com/qCDZcde.png" title="source: imgur.com" /></a>
-
 The application is based on [TensorFlow Lite](https://tensorflow.org/lite)
 on Android. It uses
 [Image classification](https://www.tensorflow.org/lite/models/image_classification/overview)
@@ -15,6 +11,14 @@ classifications. It allows the user to choose between a floating point or
 [quantized](https://www.tensorflow.org/lite/performance/post_training_quantization)
 model, select the thread count, and decide whether to run on CPU, GPU, or via
 [NNAPI](https://developer.android.com/ndk/guides/neuralnetworks).
+
+The working of the app is shown in the screenshots below:
+<a href="https://imgur.com/qCDZcde"><img src="https://i.imgur.com/qCDZcde.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/DQc4PyT"><img src="https://i.imgur.com/DQc4PyT.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/cddRWyg"><img src="https://i.imgur.com/cddRWyg.png" title="source: imgur.com" /></a>
+
 
 These instructions walk you through building and
 running the demo on an Android device. For an explanation of the source, see
